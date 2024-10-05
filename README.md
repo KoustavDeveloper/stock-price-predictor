@@ -131,7 +131,7 @@ Contributions are welcome! Here's how you can get involved:
 
 ## 🧑‍💻 Authors
 
-- **Your Name** – _Initial work_ – [KoustavDeveloper](https://github.com/KoustavDeveloper)
+- **Koustav Singh** – [KoustavDeveloper](https://github.com/KoustavDeveloper)
 
 ---
 
