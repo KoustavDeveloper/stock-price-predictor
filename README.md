@@ -82,7 +82,7 @@ The project also includes visualizations to help you understand the stock trends
 
 ### Example of Stock Price Prediction:
 
-![Stock Price Prediction Example](https://your-link-to-visualization-image.png)
+![Stock Price Prediction Example](image.png)
 
 ---
 
