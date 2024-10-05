@@ -82,7 +82,8 @@ The project also includes visualizations to help you understand the stock trends
 
 ### Example of Stock Price Prediction:
 
-![Stock Price Prediction Example](image.png)
+![Decision Tree Predictor](image.png)
+![LSTM Predictor](image1.png)
 
 ---
 
