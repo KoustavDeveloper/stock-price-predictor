@@ -145,8 +145,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any issues or inquiries, feel free to contact me at:
 
-- GitHub: [YourUsername](https://github.com/your-username)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- GitHub: [KoustavDeveloper](https://github.com/KoustavDeveloper)
+- Email: [koustavsinghcollege@gmail.com](mailto:koustavsinghcollege@gmail.com)
 
 ---
 
